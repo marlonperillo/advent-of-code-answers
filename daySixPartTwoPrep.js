@@ -2,7 +2,7 @@
 let startCount = 2
 let maxDays = 10
 let fishCount = 1
-let breedingPeriod = 80
+let breedingPeriod = 256
 function breed(daysCount, bodyClock){
 
   while(daysCount > 0){
