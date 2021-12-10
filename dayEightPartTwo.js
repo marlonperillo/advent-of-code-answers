@@ -2,7 +2,7 @@
 get 1,4,7,8
 
 get 9
-  1+4+7+ [1 remaining letter]
+  4&7
 
 get 0
   six char word with 1
